@@ -1,5 +1,5 @@
 # 🏕️ Campsite Web App
-🎉 이 프로젝트는 **Udemy: The Web Developer Bootcamp 2025** (Colt Steele) 강의를 수강하며 만든 **풀스택 캠핑장 리뷰 웹사이트**입니다.
+🎉 This project is a full-stack campground review website built while taking the Udemy: The Web Developer Bootcamp 2025 course by Colt Steele.
 
 ![스크린샷 2025-02-25 145256](https://github.com/user-attachments/assets/102aa851-54f5-4056-9c2e-54ebaed588ff)
 
